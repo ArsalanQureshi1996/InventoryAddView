@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.form-group-btn{
+  float: left;
+  width: 100%;
+  text-align: center;
+  }
+  .delButto{
+    background-color: red
+  }
